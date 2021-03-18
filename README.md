@@ -4,6 +4,7 @@ This work is developed as Master thesis in [Digital Humanities and Digital Knowl
 
 ## Table of content
 
+* **PERSONAS**: the documentation relative to the [cast of personas](https://github.com/mchiaraf/Omeka-Context/tree/main/PERSONAS) used during the design process.
 * **SURVEY**: the documentation relative to the informal survey gathered on the Omeka Forum.
   - Survey [template](https://github.com/mchiaraf/Omeka-Context/blob/main/SURVEY/omeka_forum_survey.csv)
   - Survey [responses](https://github.com/mchiaraf/Omeka-Context/blob/main/SURVEY/omeka_forum_survey_result.xlsx)
