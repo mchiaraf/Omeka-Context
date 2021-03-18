@@ -9,6 +9,11 @@ This work is developed as Master thesis in [Digital Humanities and Digital Knowl
   - Survey responses
 * TESTING: the documentation relative to the evaluation phase
   - Testing script
-  - SUS responses
-* THESIS
-* WIREFRAME
+  - SUS results
+* THESIS: the pdf document
+* WIREFRAME: the directory of all wireframes used in the research
+  1. Provenance
+  2. Confidence
+  3. Temporal
+  4. Geo-jurisdictional
+  5. Visualization
