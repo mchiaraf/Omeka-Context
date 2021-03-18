@@ -7,4 +7,8 @@ This work is developed as Master thesis in [Digital Humanities and Digital Knowl
 * SURVEY: the documentation relative to the informal survey gathered on the Omeka Forum.
   - Survey template
   - Survey responses
-* 
+* TESTING: the documentation relative to the evaluation phase
+  - Testing script
+  - SUS responses
+* THESIS
+* WIREFRAME
